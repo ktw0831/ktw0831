@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image](https://github.com/ktw0831/ktw0831/assets/130571046/1d4ec6d2-7cf7-493a-8802-7950319ceaae)
+
 
