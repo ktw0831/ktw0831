@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/ktw0831/ktw0831/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+
 ![김태우's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktw0831&show_icons=true&theme=radical)
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
