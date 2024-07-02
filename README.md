@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20태우's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+<div align="center">
+  <img src="https://github.com/ktw0831/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 ![김태우's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktw0831&show_icons=true&theme=radical)
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
