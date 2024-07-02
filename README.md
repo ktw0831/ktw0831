@@ -6,6 +6,8 @@
 type=rounded&color=timeGradient&text=Welcome%20to%20태우's%20GitHub%20👋
 &animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fktw0831&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%85%B8%EB%AC%B4%ED%98%84+%EC%82%AC%EB%9E%91%ED%95%9C+%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <!--
 **ktw0831/ktw0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
