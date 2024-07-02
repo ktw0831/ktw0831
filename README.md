@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=태우%20태우&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome 태우's%20World!!&fontSize=90)
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
