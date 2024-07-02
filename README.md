@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![노무현's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktw0831&show_icons=true&theme=radical)
+
 <!--
 **ktw0831/ktw0831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
