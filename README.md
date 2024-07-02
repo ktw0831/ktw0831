@@ -1,7 +1,7 @@
 
 ![김태우's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktw0831&show_icons=true&theme=radical)
 <h3 align="center">✨ Tech Stack ✨</h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" align = "center"/>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ktw0831&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
